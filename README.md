@@ -1,4 +1,4 @@
-# Your Plugin Name
+# Your Plugin Name [![Build Status](https://travis-ci.org/NativeScript/nativescript-testplugin.svg?branch=master)](https://travis-ci.org/NativeScript/nativescript-testplugin)
 
 Add your plugin badges here. See [nativescript-urlhandler](https://github.com/hypery2k/nativescript-urlhandler) for example.
 
