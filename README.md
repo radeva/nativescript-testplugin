@@ -1,6 +1,5 @@
 # Your Plugin Name [![Build Status](https://travis-ci.org/radeva/nativescript-testplugin.svg?branch=master)](https://travis-ci.org/radeva/nativescript-testplugin)
 
-
 Add your plugin badges here. See [nativescript-urlhandler](https://github.com/hypery2k/nativescript-urlhandler) for example.
 
 Then describe what's the purpose of your plugin. 
